@@ -6,9 +6,9 @@ This project focuses on analyzing stock market data, identifying trading opportu
 Key Metrics
 
 1. Portfolio Optimization Metrics
-Max Returns Portfolio (Red): This portfolio provides the highest return but comes with high volatility. It is heavily weighted towards NVDA (84.11%).
-Safest Portfolio (Yellow): This portfolio offers the lowest risk but also provides lower returns. It is heavily weighted towards T (61.66%).
-Sharpe Portfolio (Green): The best balance between risk and return, maximizing the Sharpe ratio. It is diversified, but NVDA remains prominent (82.95%).
+* Max Returns Portfolio (Red): This portfolio provides the highest return but comes with high volatility. It is heavily weighted towards NVDA (84.11%).
+* Safest Portfolio (Yellow): This portfolio offers the lowest risk but also provides lower returns. It is heavily weighted towards T (61.66%).
+* Sharpe Portfolio (Green): The best balance between risk and return, maximizing the Sharpe ratio. It is diversified, but NVDA remains prominent (82.95%).
 These portfolios provide insights into different risk-return trade-offs, helping to visualize the impact of various stock allocations.
 2. Bollinger Bands
 Interpretation & Insights:
